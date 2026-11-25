@@ -1,5 +1,6 @@
 # STIDEO
 
-Julkiset tiedot STIDEO-mediapalvelimesta: tietosuojaseloste / privacy notice: https://juhafin1.github.io/stideo-releases/privacy/
+Julkiset tiedot STIDEO-mediapalvelimesta.
 
-Yhteystiedot: asiakaspalvelu@selaa.fi
+- Tietosuojaseloste / privacy notice: [PRIVACY.md](PRIVACY.md)
+- Yhteystiedot / contact: asiakaspalvelu@selaa.fi
